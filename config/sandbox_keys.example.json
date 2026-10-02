@@ -1,0 +1,10 @@
+{
+  "client_id": "YOUR_EBAY_SANDBOX_CLIENT_ID",
+  "client_secret": "YOUR_EBAY_SANDBOX_CLIENT_SECRET",
+  "ru_name": "YOUR_EBAY_SANDBOX_RUNAME",
+  "gmail_user": "your.email@gmail.com",
+  "gmail_app_password": "YOUR_GMAIL_APP_PASSWORD",
+  "buyer_email_overrides": {
+    "ExampleBuyer": "your.email+example@gmail.com"
+  }
+}

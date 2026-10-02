@@ -1,0 +1,30 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Credentials and OAuth tokens
+config/*_keys.json
+config/*_tokens.json
+sandbox_keys.json
+prod_keys.json
+sandbox_tokens.json
+
+# Runtime / private data
+break_manifest.json
+break_payment_log.csv
+mock_orders.json
+
+# Generated output
+output/*
+!output/.gitkeep
+
+# Local test/input data
+examples/*
+!examples/.gitkeep
+
+# Public configuration examples
+!config/*.example.json

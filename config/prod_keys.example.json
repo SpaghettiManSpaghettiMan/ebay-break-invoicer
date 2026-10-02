@@ -1,0 +1,10 @@
+{
+  "client_id": "YOUR_EBAY_PRODUCTION_CLIENT_ID",
+  "client_secret": "YOUR_EBAY_PRODUCTION_CLIENT_SECRET",
+  "refresh_token": "YOUR_EBAY_PRODUCTION_REFRESH_TOKEN",
+  "gmail_user": "your.email@gmail.com",
+  "gmail_app_password": "YOUR_GMAIL_APP_PASSWORD",
+  "buyer_email_overrides": {
+    "ExampleBuyer": "buyer@example.com"
+  }
+}
